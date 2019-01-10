@@ -1,0 +1,6 @@
+framework module carthageDemo {
+  umbrella header "carthageDemo.h"
+
+  export *
+  module * { export * }
+}
